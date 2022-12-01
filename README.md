@@ -11,3 +11,7 @@ The processing is based on Fourier transform, the song is projected to Frequency
 
 ### Virtual Instruments <br />
 There is some built-in virtual musical instruments which you can play with and generate notes. The buttons of the virtual instruments is mapped to its real frequency. So, it will generate the real sound of the instrument.
+
+
+https://user-images.githubusercontent.com/61352701/205036686-edf57916-a554-45c6-8fd9-7d4a790123d5.mp4
+
